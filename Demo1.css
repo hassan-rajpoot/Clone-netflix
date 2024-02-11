@@ -1,0 +1,275 @@
+.navbar img{
+    margin-top: 0%;
+    width: 170px;
+    margin-left: 140px;
+}
+.navbar a{
+    
+    float: right;
+    margin-top: 22px;
+    margin-right: 140px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    padding-right: 20px;
+    padding-left: 23px;
+    border-bottom-width: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #C11119;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+.navbar a:hover{
+    background-color: rgb(206, 18, 18);
+}
+body{
+    background-image: url(https://www.laguiago.com/wp-content/uploads/2021/05/Trucos-para-aprovechar-Netflix.png);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-attachment: scroll;
+    background-size: 100%;
+    background-color: #232323;
+    margin: 0;
+}
+.heading1{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: 3rem;
+    font-weight: 700;
+}
+.heading2 p{
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size:x-large ;
+}
+.heading3 p{
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size:x-large ;
+}
+.searchbar {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+input[type=Email] {
+    width: 370px;
+   border: 10px;
+   border-radius: 5px;
+    height: 50px;
+    
+    padding-left: 20px;
+    background-color: rgba(43, 41, 41, 0.5);
+    color: white;
+}
+input[type=Email]:hover{
+    border: 1px solid white;
+}
+.searchbar input[type=button] {
+    background-color: #C11119;
+    border: 10px;
+    border-radius: 5px;
+    width: 200px;
+    margin-left: 10px;
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+}
+.searchbar input[type=button]:hover{
+    background-color: rgb(206, 18, 18);
+}
+/* .blank{
+    margin-top: 210px;
+} */
+.slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.slide h2{
+    font-size: 3em;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+.slide img{
+    width: 508.08px;
+    margin-left: 160px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+.slide p{
+    font-size: x-large;
+    text-align: justify;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+.slide2 img{
+    margin: 0 0 100px 100px ;
+    height: 430px;
+}
+.slide2{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.screen{
+    margin-top: 35px;
+    margin-right: 250px;
+}
+.screen h2{
+    display: flex;
+    font-size: 3rem;
+    font-weight: 900;
+}
+.screen p{
+    font-size: 1.5rem;
+}
+hr{
+   border: 0.5px solid #232323;
+   margin-bottom: 0;
+}
+.line hr{
+    margin-top: 225px;
+}
+.slide3{
+    background-color: black;
+    color: white; 
+    padding-top: 50px;
+}
+.slide3 p{
+    display: flex;
+    margin-left: 250px;
+    margin-right: 700px;
+    padding-bottom: 70px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.slide3 h2{
+    display: flex;
+    margin-left: 250px;
+    margin-right: 965px;
+    font-size: 3.5rem;
+}
+.slide4{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding-left: 165px;
+    padding-right: 235px;
+    padding-bottom: 100px;
+    padding-top: 50px;
+
+}
+.slide4 img{
+    width: 508px
+}
+.line2{
+    display: inline;
+    margin-top: 40px;
+}
+.line2 h2{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "Netflix Sans" "Helvetica Neue" "Segoe UI" Roboto Ubuntu sans-serif;
+}
+.line2 p{
+    font-size: 20px;
+    font-weight: 900;  
+}
+.slide5{
+    background-color:black;
+    color: white;
+    padding-bottom: 80px;
+}
+.slide5 h1{
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: center;
+    font-size: 50px;
+    padding-top: 85px;
+    padding-bottom: 30px;
+}
+.slide5 ul li button {
+    display: flex;
+    cursor: pointer;
+    padding: 22px 30px;
+
+}
+.slide5 ul li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+}
+.slide5 ul{
+    padding-bottom: 30px;
+}
+.slide5 button{
+    background-color: #414141;
+    color: white;
+    border: none;
+}
+.first{
+    /* padding-left: 789px; */
+}
+.second{
+    padding: 10px 120px;
+    margin: 20px 105px;
+}
+.third{
+    padding-left: 902px;
+}
+.fourth{
+    padding-left: 918px;
+}
+.five{
+    padding-left: 850px;
+}
+.six{
+    padding-left: 880px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 65px 130px;
+    display: flex;
+}
+.footer a{
+    color: white;
+}
+
+.font{
+    font-size: xx-large;
+}
+
+#snd{
+    display: none;
+}
+
+#first:hover #snd{
+    display: block;
+}
+#second{
+    background-color: #414141;
+}
+#content2{
+    margin-top: 20px;
+    background-color: black;
+    display: none;
+}
+#second:hover #content2{
+    display: block;
+}
